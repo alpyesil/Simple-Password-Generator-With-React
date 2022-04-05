@@ -6,7 +6,7 @@ It's a simple passowrd generator app using vanilla React.
 ## Install
 First, clone the repository into your local workspace:
 ```
-    git clone 
+    git clone https://github.com/alpyesil/Simple-Password-Generator-With-React.git
 ```
 
 Then, navigate into the project directory:
